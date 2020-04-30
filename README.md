@@ -28,7 +28,7 @@
 ```
 ------
 > 1st Line
-> - First Line is the name of the service, for example "cloudflare"
+> - First Line is the name of the service, for example "CloudFlare"
 ------
 > 2nd Line 
 > - Second Line is the domain of the service, for example, we use "circleci.statuspage.io" for CircleCI status page
