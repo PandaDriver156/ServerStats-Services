@@ -1,10 +1,11 @@
 # **ServerStats-Services**
 #### List of tracked services for the Discord bot ServerStats
 ------
-
+&nbsp;
 # How To Contribute?
-#### You can contribute by making fork and writing new lines to the ```shell sites.json``` file 
-> Copy the template below and edit by your own choice!
+> - _You can contribute by making fork and writing new lines to the ```shell sites.json``` file and making Pull Request_
+> - Please Check If Service you wan't to add already exist / was added before creating fork
+> - **Copy the template below and edit by your own choice**
 ------
 ### Explaining the JSON format
 ```shell
