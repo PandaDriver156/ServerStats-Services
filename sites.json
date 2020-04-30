@@ -1,0 +1,137 @@
+{
+    "cloudflare": {
+        "domain": "yh6f0r4529hb.statuspage.io",
+        "elements": [
+            "Cloudflare Sites and Services",
+            "Africa",
+            "Asia",
+            "Europe",
+            "Latin America & the Caribbean",
+            "Middle East",
+            "North America",
+            "Oceania"
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/699984616408350821/CloudflareLogo.png",
+        "replace": true
+    },
+    "digitalocean": {
+        "domain": "status.digitalocean.com",
+        "elements": [
+            "API",
+            "Billing",
+            "Block Storage",
+            "Cloud Control Panel",
+            "Cloud Firewall",
+            "Community",
+            "DNS",
+            "Droplets",
+            "Event Processing",
+            "Kubernetes",
+            "Load Balancers",
+            "Managed Databases",
+            "Monitoring",
+            "Networking",
+            "Spaces",
+            "Support Center"
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/699983976223342732/DO_Logo_Vertical_Blue.png",
+        "capitalization": "DigitalOcean"
+    },
+    "discord": {
+        "domain": "status.discordapp.com",
+        "elements": [
+            "API",
+            "Gateway",
+            "CloudFlare",
+            "Media Proxy",
+            "Voice"
+        ],
+        "thumbnail": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
+    },
+    "github": {
+        "domain": "kctbh9vrtdwd.statuspage.io",
+        "elements": [
+            "Git Operations",
+            "API Requests",
+            "Webhooks",
+            "Issues, PRs, Projects",
+            "GitHub Actions",
+            "GitHub Packages",
+            "GitHub Pages"
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/700065807153234000/GitHub-Mark-Light-120px-plus.png"
+    },
+    "reddit": {
+        "domain": "reddit.statuspage.io",
+        "elements": [
+            "reddit.com",
+            "redditgifts.com",
+            "Reddit Infrastructure",
+            "Reddit Media Storage",
+            "CDN - Fastly"
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/699999740825305148/Reddit_Mark_OnDark.png"
+    },
+    "dropbox": {
+        "domain": "status.dropbox.com",
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705351523852484668/Dropbox.png"
+    },
+    "epic games": {
+        "domain": "status.epicgames.com",
+        "elements": [
+            "Fortnite",
+            "Battle Breakers",
+            "Epic Games Store",
+            "Epic Online Services"
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705496003301736488/Epic_games_logo.png",
+        "capitalization": "Epic Games"
+    },
+    "teamviewer": {
+        "domain": "status.teamviewer.com",
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705496688282042418/TeamViewer_logo.png",
+        "capitalization": "TeamViewer"
+    },
+    "glitch": {
+        "domain": "status.glitch.com",
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705502429348888707/Glitch_logo.png"
+    },
+    "zoom": {
+        "domain": "status.zoom.us",
+        "elements": [
+            "Zoom Meetings",
+            "Zoom Video Webinars",
+            "Zoom Phone",
+            "Zoom Chat",
+            "Zoom Website",
+            "Conference Room Connector",
+            "Cloud Recording",
+            "Meeting Telephony Services",
+            "Integrations",
+            "Zoom Developer Platform"
+        ],
+        "thumbnail": "",
+        "replace": true
+    },
+    "npm": {
+        "domain": "status.npmjs.org",
+        "elements": [
+            "Registry Reads",
+            "Website Reads",
+            "replicate.npmjs.com",
+            "Package publishing",
+            "npm package search",
+            "npm Enterprise",
+            "npm Security Audit "
+        ],
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705499311940829184/npm_logo.png",
+        "aliases": [
+            "npmjs"
+        ],
+        "capitalization": "npm"
+    },
+    "trello": {
+        "domain": "trello.status.atlassian.com",
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705499618095661196/trello-mark-blue.png"
+    }
+}
