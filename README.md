@@ -1,9 +1,10 @@
-# ServerStats-Services
+# **ServerStats-Services**
 #### List of tracked services for the Discord bot ServerStats
 ------
-# Contributing
+
+# How To Contribute?
 #### You can contribute by making fork and writing new lines to the ```shell sites.json``` file 
-> Copy the template below and edit them by your own choice!
+> Copy the template below and edit by your own choice!
 ------
 ### Explaining the JSON format
 ```shell
@@ -58,3 +59,5 @@
 ------
 > 5th Line
 > - Replace, replace determines whether the service name should be replaced (with an empty string) in the component name. Fox example, Cloudflare has a property called Cloudflare Sites and Services, but since replace is true, ServerStats only writes Sites and Services, without Cloudflare
+------
+> - If You Got Any Issues or Simply Need Help, **[Create New Issue here on GitHub](https://github.com/PandaDriver156/ServerStats-Services/issues/new)**
