@@ -3,7 +3,7 @@
 ------
 &nbsp;
 # How To Contribute?
-> - _You can contribute by making fork and writing new lines to the ```shell sites.json``` file and making Pull Request_
+> - _You can contribute by making fork and writing new lines to the [```sites.json```](https://github.com/PandaDriver156/ServerStats-Services/blob/master/sites.json) file and making Pull Request_
 > - Please Check If Service you wan't to add already exist / was added before creating fork
 > - **Copy the template below and edit by your own choice**
 ------
