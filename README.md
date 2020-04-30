@@ -1,5 +1,6 @@
 # **ServerStats-Services**
-#### List of tracked services for the Discord bot ServerStats
+> - **List of tracked services for the Discord Bot ServerStats ✓** 
+> - **Our Bot Works By Receiving Data From StatusPage.io And Official Service Status Servers.**
 ------
 &nbsp;
 # How To Contribute?
