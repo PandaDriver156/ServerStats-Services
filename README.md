@@ -33,6 +33,7 @@
 > 2nd Line 
 > - Second Line is the domain of the service, for example, we use "circleci.statuspage.io" for CircleCI status page
 > - Additional Examples: **"www.yh6f0r4529hb.statuspage.io"**, **"www.status.digitalocean.com"**
+
 > <img src="https://github.com/TheChickenNagget/assets/blob/master/images/2.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
