@@ -133,9 +133,7 @@
     "trello": {
         "domain": "trello.status.atlassian.com",
         "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705499618095661196/trello-mark-blue.png"
-    }
-},
-{
+    },
     "statuspage": {
         "domain": "https://metastatuspage.com/",
         "elements": [
@@ -148,5 +146,6 @@
             "System Metrics",
             "Support Sites"
         ],
-        "thumbnail": "https://logos.bugcrowdusercontent.com/logos/becb/67c1/907fb72a/707a80a88f92d5039c9c3a80e0702697_bounty-logo-statuspage.png",
+        "thumbnail": "https://logos.bugcrowdusercontent.com/logos/becb/67c1/907fb72a/707a80a88f92d5039c9c3a80e0702697_bounty-logo-statuspage.png"
     }
+}
