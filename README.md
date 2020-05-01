@@ -22,7 +22,11 @@
             "Oceania"
         ],
         "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/699984616408350821/CloudflareLogo.png",
-        "replace": true
+        "replace": true,
+        "capitalization": "CloudFlare",
+        "aliases": [
+            "CF"
+        ],
     },
 ```
 ------
@@ -63,5 +67,11 @@
 ------
 > 5th line
 > - Replace, determines whether the service name should be replaced (with an empty string) in the component name. For example, Cloudflare has a property called "Cloudflare Sites and Services", but since replace is true, ServerStats only writes "Sites and Services", without Cloudflare
+------
+> 6th Line
+> - Capitalization, capitalization is optional (by default, only the first letter will be written with big letter)
+------
+> 7th Line
+> - Aliases, example: We have service called ```epic games```, you can add alias ```epic``` to make it more easier for the users to find the service
 ------
 > - If You got any issues or simply need help, feel free to **[create a new issue](https://github.com/PandaDriver156/ServerStats-Services/issues/new)**
