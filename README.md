@@ -77,7 +77,7 @@
 > - Capitalization, capitalization is optional (by default, only the first letter will be written with big letter)
 ------
 > 7th Line
-> - Aliases, example: We have service called ```epic games```, you can add alias ```epic``` to make it more easier for the users to find the service
+> - Aliases, example: We have service called ```epic games```, you can add alias ```epic``` to make it more easier for the users to find the service, Aliases Should Be **LowerCase** !!
 > - Aliases are **optional**
 ------
 > - If You got any issues or simply need help, feel free to **[create a new issue](https://github.com/PandaDriver156/ServerStats-Services/issues/new)**
