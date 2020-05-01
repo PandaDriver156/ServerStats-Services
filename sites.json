@@ -133,5 +133,20 @@
     "trello": {
         "domain": "trello.status.atlassian.com",
         "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705499618095661196/trello-mark-blue.png"
-    }
+    },
+    "wish": {
+        "domain": "status.wish.com",
+        "elements": [
+            "Wish.com",
+            "Merchant Dashboard",
+            "Databases",
+            "Amazon Web Services - us-west-1",
+            "Developer Tools",
+            "Payments",
+            "Emails",
+            "AWS cloudFront "
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/2AcRe0ZE90z0Uj8unUEK568KS_OPQEorU62O3nH5KAUoYuMzFPIblPNrYBeJQY6_HSmnSDWlMlxbrePZN5tscrS0B_QQlvx4hCBROvpsY5B-RJ7-Ui7ZEwi_jV5ofiYzIiDUtKHA",
+        "replace": true
+    },
 }
