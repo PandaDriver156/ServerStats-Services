@@ -133,5 +133,29 @@
     "trello": {
         "domain": "trello.status.atlassian.com",
         "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/705499618095661196/trello-mark-blue.png"
+    },
+    "ookla": {
+        "domain": "status.ookla.com",
+        "elements": [
+            "Speedtest.net",
+            "Speedtest Custom",
+            "Downdetector.com",
+            "Speedtest Enterprise Services",
+            "Downdetector Enterprise Services"
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/_gYhY1-deh4U3TEvJ-QhPPMWddxF1pmzm9X74F2xkfzxgE6_0pcgddvtcs-CrGbOXg",
+        "replace": false
+    },
+    "speedtest": {
+        "domain": "status.ookla.com",
+        "elements": [
+            "Speedtest.net",
+            "Speedtest Custom",
+            "Downdetector.com",
+            "Speedtest Enterprise Services",
+            "Downdetector Enterprise Services"
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/_gYhY1-deh4U3TEvJ-QhPPMWddxF1pmzm9X74F2xkfzxgE6_0pcgddvtcs-CrGbOXg",
+        "replace": false
     }
 }
