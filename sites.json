@@ -43,6 +43,7 @@
             "API",
             "Gateway",
             "Media Proxy",
+            "Push Notifications",
             "Voice",
             "CloudFlare",
             "Tax Calculation Service"
