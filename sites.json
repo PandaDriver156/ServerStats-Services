@@ -42,9 +42,10 @@
         "elements": [
             "API",
             "Gateway",
-            "CloudFlare",
             "Media Proxy",
-            "Voice"
+            "Voice",
+            "CloudFlare",
+            "Tax Calculation Service"
         ],
         "thumbnail": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
     },
