@@ -44,7 +44,7 @@
      style="float: left; margin-right: 10px;" />
 ------
 > 3rd line
-> - Third line is elements. If elements aren't specified, all elements will be displayed, so in our case:
+> - Third line are elements. If elements aren't specified, all elements will be displayed, so in our case:
 <img src="https://github.com/TheChickenNagget/assets/blob/master/images/Capture.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
