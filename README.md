@@ -6,6 +6,7 @@
 > - _You can contribute by making a fork and writing new lines to the [```sites.json```](https://github.com/PandaDriver156/ServerStats-Services/blob/master/sites.json) file and making Pull Request_
 > - Please check if the service you want to add already exists / was added before creating fork
 > - **Copy the template below and edit by your own choice**
+> - For Detailed Information [Make Sure to Check The wiki](https://github.com/PandaDriver156/ServerStats-Services/wiki/How-To-Contribute%3F)
 ------
 ### Explaining the JSON format
 ```shell
@@ -80,4 +81,4 @@
 > - Aliases, example: We have service called ```epic games```, you can add alias ```epic``` to make it more easier for the users to find the service, Aliases Should Be **LowerCase** !!
 > - Aliases are **optional**
 ------
-> - If You got any issues or simply need help, feel free to **[create a new issue](https://github.com/PandaDriver156/ServerStats-Services/issues/new)**
+> - If You got any issues or simply need help, feel free to **[create a new issue](https://github.com/PandaDriver156/ServerStats-Services/issues/new)** or [See our Wiki How to post an issue](https://github.com/PandaDriver156/ServerStats-Services/wiki/How-To-Post-An-Issue%3F)
