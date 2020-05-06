@@ -83,3 +83,5 @@
 > - Aliases are **optional**
 ------
 > - If You got any issues or simply need help, feel free to **[create a new issue](https://github.com/PandaDriver156/ServerStats-Services/issues/new)** or [See our Wiki How to post an issue](https://github.com/PandaDriver156/ServerStats-Services/wiki/How-To-Post-An-Issue%3F)
+
+![Line](https://github.com/TheChickenNagget/assets/raw/master/images/line.png)
