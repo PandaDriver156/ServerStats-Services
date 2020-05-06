@@ -1,7 +1,8 @@
 # **ServerStats-Services**
 > - **List of tracked services for the Discord Bot ServerStats ✓** 
 > - **Works by receiving data from statuspage.io and official service status servers**
-------
+
+![Line](https://github.com/TheChickenNagget/assets/raw/master/images/line.png)
 # How to contribute?
 > - _You can contribute by making a fork and writing new lines to the [```sites.json```](https://github.com/PandaDriver156/ServerStats-Services/blob/master/sites.json) file and making Pull Request_
 > - Please check if the service you want to add already exists / was added before creating fork
