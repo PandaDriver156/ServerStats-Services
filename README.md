@@ -4,7 +4,7 @@
 
 ![Line](https://github.com/TheChickenNagget/assets/raw/master/images/line.png)
 # How to contribute?
-> - _You can contribute by making a fork and writing new lines to the [```sites.json```](https://github.com/PandaDriver156/ServerStats-Services/blob/master/sites.json) file and making Pull Request_
+> - _You can contribute by making a fork and writing new lines to the [```services.json```](https://github.com/PandaDriver156/ServerStats-Services/blob/master/services.json) file and making Pull Request_
 > - Please check if the service you want to add already exists / was added before creating fork
 > - **Copy the template below and edit by your own choice**
 > - For Detailed Information [Make Sure to Check The wiki](https://github.com/PandaDriver156/ServerStats-Services/wiki/How-To-Contribute%3F)
