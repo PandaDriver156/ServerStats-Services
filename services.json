@@ -177,5 +177,12 @@
             "AWS cloudFront "
         ],
         "thumbnail": "https://lh3.googleusercontent.com/proxy/2AcRe0ZE90z0Uj8unUEK568KS_OPQEorU62O3nH5KAUoYuMzFPIblPNrYBeJQY6_HSmnSDWlMlxbrePZN5tscrS0B_QQlvx4hCBROvpsY5B-RJ7-Ui7ZEwi_jV5ofiYzIiDUtKHA"
+    },
+    "mongodb cloud": {
+        "domain": "status.cloud.mongodb.com/",
+        "aliases": "mongodb",
+        "thumbnail": "https://cdn.discordapp.com/attachments/699617640099872848/717699656707997786/MongoDB_Leaf_FullColor_RGB.png",
+        "replace": true,
+        "capitalization": "MondoDB Cloud"
     }
 }
