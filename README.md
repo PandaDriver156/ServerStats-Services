@@ -41,13 +41,13 @@
 > - Additional Examples: **"www.yh6f0r4529hb.statuspage.io"**, **"www.status.digitalocean.com"**
 > - The Domain URL is **Required**
 
-> <img src="https://github.com/TheChickenNagget/assets/blob/master/images/2.PNG"
+> <img src="https://github.com/PandaDriver156/ServerStats-Services/blob/master/img/circleci-img.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ------
 > 3rd line
 > - Third line are elements. If elements aren't specified, all elements will be displayed, so in our case:
-<img src="https://github.com/PandaDriver156/ServerStats-Services/img/server-status.png"
+<img src="https://github.com/PandaDriver156/ServerStats-Services/blob/master/img/server-status-img.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
