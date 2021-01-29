@@ -47,7 +47,7 @@
 ------
 > 3rd line
 > - Third line are elements. If elements aren't specified, all elements will be displayed, so in our case:
-<img src="https://github.com/TheChickenNagget/assets/blob/master/images/Capture.PNG"
+<img src="https://github.com/PandaDriver156/ServerStats-Services/img/server-status.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
